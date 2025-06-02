@@ -1,0 +1,5 @@
+*.log
+vendor/
+*.json
+*.yml
+.env
